@@ -1,0 +1,181 @@
+.div-top{
+    position: fixed; 
+    top: 0; 
+    background-color: black; 
+    width: 100% ;
+}
+
+.logo {
+    text-decoration: none;
+}
+.logo-img{
+    height: 80px; 
+    width: 200px;
+}
+
+.top-menu{
+    font-size: 25px;
+    color: dimgrey; 
+    text-decoration: none; 
+    font-family:monospace;
+}
+
+
+
+.div-left {
+    margin-top: 80px;
+}
+
+.ul-left{
+    float: left;
+    background-color: black; 
+    text-align: left; 
+    width: 15%; 
+    position: fixed;
+}
+
+.li-left{
+    font-size: 15px; 
+    color: white;
+}
+
+.li-left-link{
+    text-decoration: none; 
+    color: white;
+}
+
+.div-center{
+    margin-top: 100px; 
+    margin-left: 265px;
+}
+
+.img-link{
+    width:500px; 
+    float:left; 
+    padding-left: 10px; 
+    width: 1100px; 
+    padding-top: 10px;
+}
+
+.div-gender-center{
+    margin-top: 100px; 
+    margin-left: 280px;
+}
+
+.gender-info-div{
+    font-size: 30px; 
+    font-family: monospace;
+}
+
+.gender-img, .gender-img1{
+    height: 500px; 
+    width:30%px;
+}
+
+
+.add-wishlist  {
+    background-color: black; 
+    color:white; 
+    margin-top:180px; 
+    margin-right: 150px; 
+    width:200px; 
+    height: 100px; 
+    float:right;
+}
+
+.select-size{
+    background-color: whitesmoke; 
+    margin-right: 46%;
+}
+
+.size-option{
+    height:50px; 
+    background-color: whitesmoke;
+}
+
+.gender-desc{
+    font-family: monospace; 
+    font-size: 20px; 
+    margin-right: 46%; 
+    margin-top: 10px; 
+    background-color: whitesmoke;
+}
+
+.user{
+    float:left; 
+    padding-left: 150px; 
+    width: 1100px; 
+    padding-top: 50px; 
+    background-color: whitesmoke; 
+    font-family: monospace; 
+    font-size: 17px; 
+    width: 100%; 
+    margin-left: 10px;
+}
+
+.login-signup {
+    background-color: black; 
+    color: gray; 
+    width: 70px; 
+    height: 30px;
+}
+
+.div-wishlist-shopping{
+    align:center; 
+    width:500px; 
+    float:left; 
+    padding-left: 450px;
+    width: 1100px; 
+    font-size: 30px;
+}
+
+.wishlist-items{
+    align:center; 
+    width:500px; 
+    float:left; 
+    padding-left: 100px; 
+    width: 1100px; 
+    font-size: 30px;
+}
+
+.wishlist-table{
+    font-size: 20px;
+}
+
+.wishlist-button {
+    background-color: black; 
+    color:gray; 
+    width: 300px; 
+    height:50px; 
+    float: right; 
+    margin-right: 350px;
+}
+.wish-list {
+    align-content: center;
+    margin-top: 10px; 
+    margin-left: 200px;
+    font-size: 50px;    
+}
+
+.buy {
+    background-color: black; 
+    color:white; 
+    margin-left: 120px; 
+    width:200px; 
+    height: 100px; 
+    
+}
+.horizontal-line{
+height:2px;border-width:0;color:gray;background-color:gray; width:100%; margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
