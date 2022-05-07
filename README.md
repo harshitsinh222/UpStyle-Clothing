@@ -1,5 +1,5 @@
-# UpStyle-Clothing
-It is a cLothing website created using HTML , CSS and Javascript.
-Also user can add the selected clothes to their cart.
-I have also used animation for the events.
+# UpStyle-Clothing<br />
+It is a cLothing website created using HTML , CSS and Javascript.<br />
+Also user can add the selected clothes to their cart.<br />
+I have also used animation for the events.<br />
 
